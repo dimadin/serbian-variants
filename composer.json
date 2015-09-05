@@ -1,0 +1,17 @@
+{
+	"name": "dimadin/serbian-variants",
+	"description": "Serbian_Variants",
+	"homepage": "https://github.com/dimadin/serbian-variants",
+	"type": "library",
+	"license": "GPL",
+	"authors": [
+		{
+			"name": "Milan Dinić",
+			"email": "milan@srpski.biz",
+			"homepage": "http://blog.milandinic.com/"
+		}
+	],
+	"autoload": {
+        "files": ["class-serbian-variants.php"]
+    }
+}
